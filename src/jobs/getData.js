@@ -69,7 +69,6 @@ export const getMetadata = async (Identity) => {
 	const validResults = await Promise.all(
 		allMetadata.map((p) => p.catch((e) => console.log(e)))
 	);
-	//const validResults = results.filter((result) => !(result instanceof Error));
 	const lengthOfFoundResults = validResults.length;
 	return [validResults, lengthOfFoundResults];
 };
