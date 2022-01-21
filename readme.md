@@ -29,5 +29,3 @@ Claylings, Yacht Club, Mekaverse, and many more.
 - [ ] Mongo DB storage of already grabbed assets
 - [ ] User interface for everyday usage
 - [ ] Rarity multiplier by single assets
-
-# Add me on telegram: @elbrupt
